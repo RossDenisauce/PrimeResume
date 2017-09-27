@@ -7,25 +7,28 @@ body {
 }
 
 .name-title {
-  
+  margin-left: 200px;
+  margin-right: 200px;  
 }
 .name-desc {
- padding: 10px;
- border: 2px solid black;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px;
+  border: 2px solid black;
 }
 .education-title {
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 .education {
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 .experience-title {
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 .experience {
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
