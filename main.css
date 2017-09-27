@@ -4,7 +4,6 @@ body {
   background-position: center top;
   background-size: cover;
   margin: 0;
-  text-align: center;
 }
 
 .name-title {
@@ -15,14 +14,14 @@ body {
  border: 2px solid black;
 }
 .education-title {
-  margin: 50px;
+  margin: 150px;
 }
 .education {
-  margin: 50px;
+  margin: 150px;
 }
 .experience-title {
-  margin: 50px;
+  margin: 150px;
 }
 .experience {
-  margin: 50px;
+  margin: 150px;
 }
