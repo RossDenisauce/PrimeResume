@@ -11,5 +11,17 @@ body {
 }
 .name-desc {
  padding: 10px;
- border: 1px solid black;
+ border: 3px solid black;
+}
+.education-title {
+  margin: 15px;
+}
+.education {
+  margin: 17px;
+}
+.experience-title {
+  margin: 15px;
+}
+.experience {
+  margin: 17px;
 }
