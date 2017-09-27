@@ -1,7 +1,15 @@
-body{
-  font-family: Cambria, calibri;
+body {
+  font-family: Cambria;
   background-image: url(https://wallpapercave.com/wp/OS6Fgxs.jpg);
   background-position: center top;
   background-size: cover;
   margin: 0;
+}
+
+.name-title {
+  
+}
+.name-desc {
+ padding: 10px;
+ border: 1px solid black;
 }
