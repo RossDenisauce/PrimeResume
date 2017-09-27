@@ -14,14 +14,18 @@ body {
  border: 2px solid black;
 }
 .education-title {
-  margin: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 .education {
-  margin: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 .experience-title {
-  margin: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 .experience {
-  margin: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
